@@ -56202,4 +56202,11 @@
     "description": "Natural language to LaTeX conversion engine. Supports math snippets, tables, charts and more. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "antodellarte/nl2latex-obsidian"
   }
+  {
+    "id": "universe-builder",
+    "name": "Universe Builder",
+    "author": "liamhatherton",
+    "description": "A fiction world building sidebar-contained wiki for characters, locations, groups, lore entries, and timeline events. (Originally authored by wesswart77).",
+    "repo": "liamhatherton/universe-builder"
+  }
 ]
